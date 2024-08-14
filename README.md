@@ -1,4 +1,4 @@
-# Contact-List-React-Coding-Ninjas
+# Contact-List-React
 
 Hosted Website Link : - https://glittery-basbousa-43b701.netlify.app/
 
